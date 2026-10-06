@@ -13,4 +13,4 @@ int main(){
         cout << arr[i];
         x++;
     }cout << endl;
-}
+}    
